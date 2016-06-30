@@ -1,0 +1,3 @@
+var Magic = function (number) {
+
+}
